@@ -1,0 +1,14 @@
+DemoAPI/Model/Customer.java
+ DemoAPI.Model.Customer
+DemoAPI/Config/AppInit.java
+ DemoAPI.Config.AppInit
+DemoAPI/Config/AppConfig.java
+ DemoAPI.Config.AppConfig
+DemoAPI/Repository/ICustomerRepository.java
+ DemoAPI.Repository.ICustomerRepository
+DemoAPI/Service/ICustomerService.java
+ DemoAPI.Service.ICustomerService
+DemoAPI/Service/CustomerService.java
+ DemoAPI.Service.CustomerService
+DemoAPI/Controller/CustomerControler.java
+ DemoAPI.Controller.CustomerControler
